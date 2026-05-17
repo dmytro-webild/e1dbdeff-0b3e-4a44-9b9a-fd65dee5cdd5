@@ -69,11 +69,11 @@ export default function LandingPage() {
       ]}
       slides={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-cute-small-girl-near-shiny-car-atuo-service-workshop_613910-15243.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-cute-small-girl-near-shiny-car-atuo-service-workshop_613910-15243.jpg?_wi=1",
           imageAlt: "Luxury car gallery",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/detail-drive-antique-shiny-headlight_1203-6156.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/detail-drive-antique-shiny-headlight_1203-6156.jpg?_wi=1",
           imageAlt: "Vintage detail",
         },
         {
@@ -178,7 +178,7 @@ export default function LandingPage() {
           description: "Mechanics optimized by masters of the craft.",
           bentoComponent: "reveal-icon",
           icon: Zap,
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-cute-small-girl-near-shiny-car-atuo-service-workshop_613910-15243.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-cute-small-girl-near-shiny-car-atuo-service-workshop_613910-15243.jpg?_wi=2",
           imageAlt: "classic car mechanic engine",
         },
         {
@@ -186,7 +186,7 @@ export default function LandingPage() {
           description: "Safe global delivery directly to your door.",
           bentoComponent: "reveal-icon",
           icon: Shield,
-          imageSrc: "http://img.b2bpic.net/free-photo/detail-drive-antique-shiny-headlight_1203-6156.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/detail-drive-antique-shiny-headlight_1203-6156.jpg?_wi=2",
           imageAlt: "classic car mechanic engine",
         },
       ]}
